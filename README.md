@@ -1,4 +1,4 @@
-# Awesome Vulnerable Web Applications
+#  Vulnerable Web Applications
 
 |Name                           |URL                                      |Technology                             |Creds (role:user:password)|
 |-------------------------------|-----------------------------------------|---------------------------------------|--------------------------|
